@@ -34,7 +34,7 @@ cp4d:
   # - datastage
   # - ikc-premium
   # - ikc-standard
-  # - openpages
+  - openpages
   # - planning-analytics
   # - product-master
   # - speech-to-text
@@ -213,7 +213,7 @@ cp4d:
 
   - name: openpages
     description: OpenPages
-    state: removed
+    state: installed
 
   - name: planning-analytics
     description: Planning Analytics
